@@ -8,10 +8,11 @@
   A luxurious and immersive web experience inspired by elegance, design, and modern web aesthetics.
 </p>
 
-<p align="center">
-  <a href="https://velvet-maison.vercel.app/">
-  </a>
-</p>
+
+## 🌐 Live Demo
+
+🔗(https://velvet-maison.vercel.app//)
+
 
 ---
 
@@ -55,12 +56,12 @@ This project reflects attention to detail, creativity, and strong frontend engin
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
-<p align="center">
-  <img src="![hero section](image.png)" width="80%" />
-  <img src="![toofan](image-1.png)" width="80%" />
-</p>
+![landing page](image.png)
+
+![Toofan](image-1.png)
+
 
 ---
 
