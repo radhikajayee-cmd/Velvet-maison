@@ -1,73 +1,148 @@
-# Welcome to your Lovable project
+<p align="center">
+  <img src="public/logo.png" width="120" />
+</p>
 
-## Project info
+<h1 align="center">🏰 Velvet Mansion</h1>
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+<p align="center">
+  A luxurious and immersive web experience inspired by elegance, design, and modern web aesthetics.
+</p>
 
-## How can I edit this code?
+<p align="center">
+  <a href="https://velvet-maison.vercel.app/">
+  </a>
+</p>
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✨ Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+**Velvet Mansion** is a visually rich and modern web application designed to deliver a premium user experience.
+It blends **elegant UI design**, **smooth interactions**, and **high-performance frontend architecture**.
 
-Changes made via Lovable will be committed automatically to this repo.
+This project reflects attention to detail, creativity, and strong frontend engineering skills.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🎯 Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* 🎨 Stunning and modern UI design
+* ⚡ Fast and responsive performance
+* 📱 Fully responsive across devices
+* 🎥 Smooth animations and transitions
+* 🧩 Component-based architecture
+* 🌙 Clean and immersive visual theme
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Frontend
 
-# Step 3: Install the necessary dependencies.
-npm i
+* React.js
+* TypeScript / JavaScript
+* Vite
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Styling
+
+* Tailwind CSS
+* Custom CSS animations
+
+### Tools & Deployment
+
+* Git & GitHub
+* Vercel (Deployment)
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="![hero section](image.png)" width="80%" />
+  <img src="![toofan](image-1.png)" width="80%" />
+</p>
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/velvet-mansion.git
+cd velvet-mansion
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Run locally
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Live Demo
 
-**Use GitHub Codespaces**
+👉 https://your-vercel-link.vercel.app
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 📂 Project Structure
 
-This project is built with:
+```
+velvet-mansion/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+│── index.html
+│── package.json
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 💡 Inspiration
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+This project is inspired by luxury-themed digital experiences, combining **modern UI trends** with **high-end visual storytelling**.
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 📈 Future Improvements
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+* 🔐 Authentication system
+* 🛒 E-commerce features
+* 🌍 Multi-language support
+* 🎮 Advanced animations & interactions
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+---
+
+## 👩‍💻 Author
+
+**Radhika Jayee**
+
+* GitHub: https://github.com/radhikajayee-cmd
+
+---
+
+## ⭐ Show your support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+<p align="center">
+  Built with ❤️ and creativity
+</p>
